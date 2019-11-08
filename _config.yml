@@ -1,0 +1,66 @@
+
+# Site settings
+title: Hassan and Associates
+language: html "en"
+email: info@hassanandassociates.biz
+description: We provide services for income tax, company law and other related business services. We are located in Dhaka, Bangladesh but we serve clients across the country and all over the world. Our other Business services includes obtaining Trade License, Value Added Tax Registration certificate, Import-Export-Indenting License, Permits. 
+keywords: Income tax Advisor, Tax Advisor, taxadvisor, Tax Consultants, Company Law, Company Law Advisor, Business Services, Business Service provider
+
+# Your website URL 
+# Used for Sitemap.xml and your RSS feed
+url: https://hassanandassociates.biz
+     
+baseurl: https://hassanandassociates.biz
+
+# Team names, titles and social links
+# a change in the length of the longest description affects /agency.css .team-member p.description
+people:
+- name: Syed Hassan Ali
+  pic: 1
+  position: CEO & Founder
+  social:
+    - title: globe
+      url: https://taxadvisor.com.bd
+    - title: globe
+      url: https://upodesta.wordpress.com
+    - title: globe
+      url: https://taxadvisor.ml
+    
+    
+  description: SYED HASSAN ALI, B.Com (Hons), M.Com (Accounting), LL.B is certified by the National Board of Revenue, Bangladesh since 1992.  He is a member of the Dhaka Taxes Bar Association. He is also a Company law expert. In the past, he has held the position of Consultant, Project Consultant, Advisor, Land Advisor and Company Secretary in some well-known local, multi-national and foreign companies. His individual varied carrier includes corporate tax and VAT management; formulation of corporate service rules, charter of duties, various type of manuals and policies; land and assets management; project feasibility study and analysis; management of multi-functional work team, development and delivery; over all functions of HR and law department.
+
+- name: Ekhlasur Rahman
+  pic: 2
+  position: Co-ordinator
+  social:
+    - title: globe
+      url: https://www.notion.so/Income-tax-Company-law-and-Business-services-provider-in-Bangladesh-5c6284dac36d4278a2e9cc8d8ddcf175
+    - title: globe
+      url: https://sway.com/LDk6F065TY06q64j
+    - title: globe
+      url: https://hassanandassociates.jimdo.com
+    - title: globe 
+      url: https://www.trepup.com/hassanandassociates
+  description: Ekhlasur Rahman is living and working in Dhaka, Bangladesh. He joined the Hassan and Associates in 2000. As the first person of contact at Hassan and Associates, he answers all phone calls and respond to inquiry emails. His responsibilty also include scheduling appointments for our clients, as well as the firm's invoicing and billing. His close attention to detail is a skill I subject as I review the subject matter for completeness prior to a discussion meeting with our firm. He routinely correspond with the clients of the Hassan and Associates, as well as provides initial guidelines. He complete each task with a smile and look forward to being of assistance to each clients.       
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: pinterest
+    url: https://www.pinterest.com/syed_hassan_ali_bd/quotes
+  - title: linkedin
+    url: https://www.linkedin.com/company/hassanassociates
+  - title: medium
+    url: https://medium.com/@hassanandassociates
+  - title: vk
+    url: https://vk.com/hassanandassociates
+  - title: instagram
+    url: https://www.instagram.com/hassanandassociates
+# Postal address (add as many lines as necessary)
+address:
+  - line: House # 154/4, West Rampura
+  - line: WAPDA Road, Dhaka-1219
+  - line: Bangladesh
+
+# Build settings
+markdown: kramdown
+permalink: pretty
