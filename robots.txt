@@ -1,6 +1,4 @@
 User-agent: *
 Allow: /
-
-Disallow: /https://hassanandassociates.biz/cdn-cgi/l/email-protection
-
+Allow: /sitemap.htm
 Sitemap: https://hassanandassociates.biz/sitemap.xml
