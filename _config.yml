@@ -21,7 +21,11 @@ people:
   social:
     - title: globe
       url: https://taxadvisor.com.bd
-    - title: globe
+    - title: facebook
+      url: https://www.facebook.com/syedhassanali.bd
+    - title: pinterest
+      url: https://www.pinterest.com/syed_hassan_ali_bd/quotes
+    - title: wordpress
       url: https://hassanandassociates.wordpress.com/syed-hassan-ali/
     
     
@@ -35,20 +39,22 @@ people:
     
     - title: globe
       url: https://sway.com/LDk6F065TY06q64j
+    - title: vk
+      url: https://vk.com/hassanandassociates
     - title: globe 
       url: https://www.trepup.com/hassanandassociates
   description: Ekhlasur Rahman is living and working in Dhaka, Bangladesh. He joined the Hassan and Associates in 2000. As the first person of contact at Hassan and Associates, he answers all phone calls and respond to inquiry emails. His responsibilty also include scheduling appointments for our clients, as well as the firm's invoicing and billing. His close attention to detail is a skill I subject as I review the subject matter for completeness prior to a discussion meeting with our firm. He routinely correspond with the clients of the Hassan and Associates, as well as provides initial guidelines. He complete each task with a smile and look forward to being of assistance to each clients
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: pinterest
-    url: https://www.pinterest.com/syed_hassan_ali_bd/quotes
+  - title: facebook
+    url: https://www.facebook.com/hassanandassociates.biz
   - title: linkedin
     url: https://www.linkedin.com/company/hassanassociates
   - title: medium
     url: https://medium.com/@hassanandassociates
-  - title: vk
-    url: https://vk.com/hassanandassociates
+  - title: twitter
+    url: https://twitter.com/hasanassociates
   - title: instagram
     url: https://www.instagram.com/hassanandassociates
 # Postal address (add as many lines as necessary)
