@@ -51,12 +51,12 @@ social:
     url: https://www.facebook.com/hassanandassociates.biz
   - title: linkedin
     url: https://www.linkedin.com/company/hassanassociates
-  - title: medium
-    url: https://medium.com/@hassanandassociates
-  - title: twitter
+   - title: twitter
     url: https://twitter.com/hasanassociates
   - title: instagram
     url: https://www.instagram.com/hassanandassociates
+  - title: youtube
+    url: https://www.youtube.com/channel/UCdKY7Ei8I9x5-UbYFehlGXw
 # Postal address (add as many lines as necessary)
 address:
   - line: House # 154/4, West Rampura
