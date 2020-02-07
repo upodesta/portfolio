@@ -1,7 +1,7 @@
 
 # Site settings
 title: Hassan and Associates
-language: html "en-us"
+language: html "en"
 email: info@hassanandassociates.biz
 description: We provide services for income tax, company law and other related business services. We are located in Dhaka, Bangladesh but we serve clients across the country and all over the world. Our other Business services includes obtaining Trade License, Value Added Tax Registration certificate, Import-Export-Indenting License, Permits. 
 keywords: Income tax Advisor, Tax Advisor, taxadvisor, Tax Consultants, Company Law, Company Law Advisor, Business Services, Business Service provider
@@ -26,7 +26,7 @@ people:
     - title: pinterest
       url: https://www.pinterest.com/syed_hassan_ali_bd/quotes
     - title: wordpress
-      url: https://hassanandassociates.wordpress.com/syed-hassan-ali/
+      url: https://hassanandassociates.wordpress.com/
     
     
     
@@ -37,8 +37,8 @@ people:
   position: Co-ordinator
   social:
     
-    - title: globe
-      url: https://sway.com/LDk6F065TY06q64j
+    - title: github
+      url: https://github.com/hassanandassociatesbd
     - title: vk
       url: https://vk.com/hassanandassociates
     - title: globe
