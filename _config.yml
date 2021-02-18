@@ -62,9 +62,9 @@ social:
     url: https://www.instagram.com/hassanandassociates
 # Postal address (add as many lines as necessary)
 address:
-  - line: House: 154/4, West Rampura
-  - line: WAPDA Road, Dhaka-1219
-  - line: Bangladesh
+  - line: 
+  - line: 
+  - line: 
 
 # Build settings
 markdown: kramdown
