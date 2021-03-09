@@ -24,7 +24,7 @@ people:
       url: https://taxadvisor.com.bd
     - title: vimeo
       url: https://vimeo.com/taxadvisor
-    - title: Medium
+    - title: globe
       url: https://medium.com/@hassanandassociates
     - title: wordpress
       url: https://hassanandassociates.wordpress.com
@@ -63,6 +63,7 @@ social:
     url: https://twitter.com/hasanassociates
   - title: instagram
     url: https://www.instagram.com/hassanandassociates
+
 # Postal address (add as many lines as necessary)
 address:
   - line: 
