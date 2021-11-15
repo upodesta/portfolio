@@ -6,11 +6,14 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 gem "rails"
 
-gem "rspec", "~> 3.9"
+gem "rspec"
 
-gem 'github-pages'
+gem "github-pages"
 
-gem 'wdm'
+gem "somewhere_upodesta"
 
-gem 'somewhere_upodesta'
+gem "wdm"
+
+
+
 
