@@ -72,12 +72,12 @@
 
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h/1 class="section-heading"> <img src="https://hassan.com.bd/img/brand/ha-logo6.webp" alt="" width=300 height=55></h1>
+        <h/1 class="section-heading"> <img src="/img/brand/ha-logo6.webp" alt="" width=300 height=55></h1>
 		</div>
 	</div>
 	<div class="row">
       <div class="col-lg-12 text-center">
-        <h2 class="section-heading"> <img src="https://hassan.com.bd/img/brand/comment.jpg" alt="" width=250 height=100></h2>
+        <h2 class="section-heading"> <img src="/img/brand/comment.jpg" alt="" width=250 height=100></h2>
 		</div>
 	</div>
 		<div class="row">
@@ -152,7 +152,7 @@
     <script src="{{ "https://hassan.com.bd/js/cbpAnimatedHeader.js" | prepend: site.baseurl }}"></script>
 
     <!-- jssor.slider JavaScript -->
-    <script src="{{ "https://hassan.com.bd/js/jssor.slider-27.1.0.min" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/js/jssor.slider-27.1.0.min" | prepend: site.baseurl }}"></script>
 
     <!-- Custom Theme JavaScript -->
     <script src="{{ "https://hassan.com.bd/js/agency.js" | prepend: site.baseurl }}"></script>

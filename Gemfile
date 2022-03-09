@@ -14,6 +14,8 @@ gem "somewhere_upodesta"
 
 gem "wdm"
 
+gem "webrick"
+
 
 
 
